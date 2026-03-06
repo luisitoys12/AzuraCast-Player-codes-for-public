@@ -1,3 +1,3 @@
 export default {
-  apiBaseUrl: 'https://radio.estacionkusmedios.com/api/2',
+  apiBaseUrl: 'https://streaming.hostiec.com/api/2',
 }
